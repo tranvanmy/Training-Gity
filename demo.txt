@@ -4,3 +4,6 @@ tranvanmy_version2
 tranvanmy_version3
 
 hom nay that dep trowi
+
+
+toi la dev A , va toi vua sua file nay hihihi
